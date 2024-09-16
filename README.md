@@ -2,7 +2,7 @@
 
  
 
-![Memory Game](memory-game-preview.png)
+![Memory Game](1.gif)
 
 👀 I’m interested in technology, coding, and open-source projects.
 🌱 I’m currently learning web development, especially React and Node.js.
