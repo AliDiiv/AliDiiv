@@ -5,7 +5,7 @@
 💞️ I’m looking to collaborate on interesting open-source projects and web applications.
 📫 How to reach me: Feel free to contact me via GitHub or email me at [alidiv2023@gmail.com].
 ⚡ Fun fact: I love solving puzzles enjoy  my free time!
-![Memory Game](1.gif)
+
 
 
 
